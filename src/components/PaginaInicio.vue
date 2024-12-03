@@ -5,7 +5,7 @@
 
     <!-- Contenido Principal -->
     <div class="welcome-container">
-      <h1 class="text-center">¡Bienvenido a A-Tinder Chambas!</h1>
+      <h1 class="text-center">¡ Bienvenido a Conect-A !</h1>
       <p class="text-center lead">
         Encuentra compañeros para tus proyectos universitarios y conecta con
         ideas innovadoras.

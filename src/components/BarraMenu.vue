@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-light bg-light shadow">
     <div class="container">
       <!-- Enlace de la marca que redirige al inicio -->
-      <a class="navbar-brand" @click.prevent="irInicio" style="cursor: pointer;">A-Tinder Chambas</a>
+      <a class="navbar-brand" @click.prevent="irInicio" style="cursor: pointer;">Conect-A</a>
       <button
         class="navbar-toggler"
         type="button"
