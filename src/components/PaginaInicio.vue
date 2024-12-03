@@ -11,7 +11,7 @@
         ideas innovadoras.
       </p>
       <div class="text-center mt-4">
-        <router-link to="/Proyectos" class="btn btn-primary me-2">Explorar Proyectos</router-link>
+        <router-link to="/Proyectos" class="btn btn-primary me-2">Explorar Proyectossss</router-link>
         <router-link to="/Perfiles" class="btn btn-outline-secondary">Buscar Compañeros</router-link>
       </div>
     </div>
